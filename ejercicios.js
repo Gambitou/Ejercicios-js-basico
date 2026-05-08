@@ -45,3 +45,4 @@ console.log(edad >= 18 || tienePermiso);
 let usuario="admin";
 let password="1234";
 console.log(usuario === "admin" && password === "1234");
+console.log("cori te amo")
